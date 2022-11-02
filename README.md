@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deusser
 - 👀 I’m interested in python programming, video games, films, music.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python & c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
